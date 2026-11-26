@@ -4,7 +4,7 @@
 
 **English** · [简体中文](README.zh-CN.md)
 
-Time Pool is a desktop app for keeping a local record of how you spend your time. Enter activities by hand or dictate a note in English or Mandarin. See the breakdown by category, from a single day to a full year.
+Time Pool is a desktop app for keeping a local record of how you spend your time. Enter activities by hand or dictate a note in English or Mandarin. See the breakdown by category, from a single day to a full year. I first had the idea for Time Pool one morning in the spring of 2026, when I was in ninth grade preparing for China's high school entrance exam (the Zhongkao).
 
 ## Get Started on Windows
 
