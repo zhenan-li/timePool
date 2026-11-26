@@ -1,0 +1,8 @@
+PySide6-Essentials>=6.7
+matplotlib>=3.8
+websocket-client>=1.8
+sounddevice>=0.5,<1
+faster-whisper>=1.2,<2
+huggingface-hub>=0.21
+av>=11
+numpy

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+time_pool_data.json
+time_pool_data.tmp
+time_pool_settings.json
+backup/
+.timepool_models/
+
+prepare_anaconda_env.log
+/build/
+/dist/
